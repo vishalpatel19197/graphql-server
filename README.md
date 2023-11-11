@@ -3,7 +3,7 @@
 <button style="padding: 3px 20px; ">yarn</button>
 
 - This is the demo project of GraphQl with node.
-- for setup this project you have take clone **[URL](https://github.com/vishalpatel19197/graphql-server.git)**
+- for setup this project you have to take a clone **[URL](https://github.com/vishalpatel19197/graphql-server.git)**
 
 ---
 
